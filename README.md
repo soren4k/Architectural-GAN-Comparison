@@ -1,6 +1,7 @@
 # Architectural-GAN-Comparison
 An empirical comparison of DC-GAN and WGAN-GP for generating architectural images
 
+Link to paper: https://docs.google.com/document/d/16l7X2w6MToASy0nFdKPxtPaOfmFw7EGvJnspxMper4o/edit?usp=sharing 
 
 ## Structure
 - `/src`: Contains the Python scripts for the model architectures.
@@ -11,8 +12,6 @@ An empirical comparison of DC-GAN and WGAN-GP for generating architectural image
 1. Ensure all packages from `requirements.txt` are installed (`pip install -r requirements.txt`).
 2. Place the dataset (`exteriors_128.zip`) in the root directory.
 3. Open the notebooks in `/notebooks` (e.g., in Google Colab) and run the cells sequentially.
-
-Link to paper: https://docs.google.com/document/d/16l7X2w6MToASy0nFdKPxtPaOfmFw7EGvJnspxMper4o/edit?usp=sharing 
 
 Best images generated (8x8 grid): 
 
