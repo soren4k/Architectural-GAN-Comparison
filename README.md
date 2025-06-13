@@ -1,7 +1,6 @@
 # Architectural-GAN-Comparison
 An empirical comparison of DC-GAN and WGAN-GP for generating architectural images
 
-This repository contains the source code for the empirical comparison of DC-GAN and WGAN-GP for architectural image generation.
 
 ## Structure
 - `/src`: Contains the Python scripts for the model architectures.
