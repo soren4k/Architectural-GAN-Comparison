@@ -1,0 +1,6 @@
+torch>=2.3.0
+torchvision>=0.18.0
+pandas
+tqdm
+matplotlib
+torch-fidelity==0.2.0
